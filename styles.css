@@ -301,6 +301,7 @@ h1, h2, h3 { margin: 0; }
 /* ---------- Prima schermata (home) ---------- */
 .apertura {
   position: relative;
+  overflow: clip;
   min-height: 100svh;
   display: grid;
   align-content: end;
